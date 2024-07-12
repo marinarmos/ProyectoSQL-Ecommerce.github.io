@@ -32,7 +32,7 @@ Como miembro del equipo de la startup, te va a tocar trabajar con el CEO, el dir
 Tu objetivo será analizar la situación actual de la empresa, medir la conversión de la web y usar datos para entender las ventas e impacto de los productos.
 
 ## Esquema de Relaciones
-![Esquema de relaciones]([URL_DE_LA_IMAGEN](https://github.com/marinarmos/marinaramos.github.io/blob/main/osito%20feliz%20diagrama.png)))
+https://github.com/marinarmos/marinaramos.github.io/blob/main/osito%20feliz%20diagrama.png
 
 ## Crear Base de Datos y Tablas
 
