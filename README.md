@@ -1,4 +1,3 @@
-# marinaramos.github.io
 # Proyecto Ecommerce
 
 ## Glosario del Proyecto
@@ -32,7 +31,8 @@ Como miembro del equipo de la startup, te va a tocar trabajar con el CEO, el dir
 Tu objetivo será analizar la situación actual de la empresa, medir la conversión de la web y usar datos para entender las ventas e impacto de los productos.
 
 ## Esquema de Relaciones
-https://github.com/marinarmos/marinaramos.github.io/blob/main/osito%20feliz%20diagrama.png
+
+![Esquema de relaciones](https://raw.githubusercontent.com/marinarmos/marinaramos.github.io/main/osito%20feliz%20diagrama.png)
 
 ## Crear Base de Datos y Tablas
 
@@ -84,3 +84,4 @@ Antes de comenzar a responder a las preguntas de negocio que se nos solicita, de
 ## Solución
 
 (Colocar aquí las soluciones o análisis detallados)
+
