@@ -1,5 +1,4 @@
-# Proyecto Ecommerce SQL
-# Estudio de la empresa de ecommerce "OsitoFeliz" 🧸
+# Proyecto empresa Ecommerce SQL: "OsitoFeliz" 🧸
 
 ## Glosario del Proyecto
 
